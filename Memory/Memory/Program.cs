@@ -6,7 +6,7 @@ for (int y = 0; y <= 3; y++)
 {
     for (int x = 0; x <= 3; x++)
     {
-        board[y,x] = random.Next(10);
+        board[y,x] = random.Next(7);
     }
 }
 
