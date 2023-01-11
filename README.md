@@ -1,8 +1,8 @@
-# Console Apps
-1. [Math Quiz](#math-quiz)
-2. [Memory](#memory)
+# console apps
+1. [math quiz](#math-quiz)
+2. [memory](#memory)
 ---
-### Math Quiz
-Framework for a simple math quiz. If you lose all three lives, the app terminates automatically.
+### math quiz
+framework for a simple math quiz. if you lose all three lives, the app terminates automatically.
 
-### Memory
+### memory
