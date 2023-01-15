@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD:math-quiz/math-quiz/obj/math-quiz.csproj.nuget.dgspec.json
     "C:\\Users\\Tim\\Desktop\\math-quiz\\math-quiz\\math-quiz.csproj": {}
   },
   "projects": {
@@ -12,16 +13,27 @@
         "projectPath": "C:\\Users\\Tim\\Desktop\\math-quiz\\math-quiz\\math-quiz.csproj",
         "packagesPath": "C:\\Users\\Tim\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Tim\\Desktop\\math-quiz\\math-quiz\\obj\\",
+=======
+    "/Users/tim/personal/develop/Konsolenanwendungen/Mathe Quiz/Mathe Quiz/Mathe Quiz.csproj": {}
+  },
+  "projects": {
+    "/Users/tim/personal/develop/Konsolenanwendungen/Mathe Quiz/Mathe Quiz/Mathe Quiz.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tim/personal/develop/Konsolenanwendungen/Mathe Quiz/Mathe Quiz/Mathe Quiz.csproj",
+        "projectName": "Mathe Quiz",
+        "projectPath": "/Users/tim/personal/develop/Konsolenanwendungen/Mathe Quiz/Mathe Quiz/Mathe Quiz.csproj",
+        "packagesPath": "/Users/tim/.nuget/packages/",
+        "outputPath": "/Users/tim/personal/develop/Konsolenanwendungen/Mathe Quiz/Mathe Quiz/obj/",
+>>>>>>> d638c7ea0ad98d494e5e15954e6f537c30f2cbd1:Mathe Quiz/Mathe Quiz/obj/Mathe Quiz.csproj.nuget.dgspec.json
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Tim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/tim/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

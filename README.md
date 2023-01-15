@@ -1,5 +1,8 @@
-# Konsolenanwendungen
-1. [Mathe Quiz](#mathe-quiz)
+# console apps
+1. [math quiz](#math-quiz)
+2. [memory](#memory)
 ---
-### Mathe Quiz
-Grundgerüst für ein einfaches Mathe Quiz. Sobald alle drei Leben durch Fehlangaben aufgebraucht sind, wird die Anwendung beendet.
+### math quiz
+framework for a simple math quiz. if you lose all three lives, the app terminates automatically.
+
+### memory
